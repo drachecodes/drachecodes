@@ -1,5 +1,5 @@
 - 👋 Hi, I’m DracheCodes.
-- 👀 I’m interested in Programming.
+- 👀 I’m interested in Programming in General.
 - 🌱 I’m currently learning C Language and Practicing React.
 - :D.. Nice To meet you..
 
